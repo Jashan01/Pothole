@@ -8,7 +8,7 @@
 .buildlog/
 .history
 .svn/
-
+#name sarthak chandna, change for hacktober fest
 # IntelliJ related
 *.iml
 *.ipr
