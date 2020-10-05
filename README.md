@@ -1,4 +1,4 @@
-# pothole
+# Pothole
 
 A new Flutter application.
 
