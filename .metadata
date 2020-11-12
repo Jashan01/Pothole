@@ -2,6 +2,7 @@
 # Used by Flutter tool to assess capabilities and perform upgrades etc.
 #
 # This file should be version controlled and should not be manually edited.
+# ignore this comment
 
 version:
   revision: 27321ebbad34b0a3fafe99fac037102196d655ff
